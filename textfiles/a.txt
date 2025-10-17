@@ -1,1 +1,2 @@
 File A content
+This is a new feature added in feature-branch.
